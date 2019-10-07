@@ -1,5 +1,5 @@
 * {
-  margin: 30px;
+  margin: 0px;
 }
 header {
   width: 100%;
@@ -34,8 +34,10 @@ section:nth-of-type(2) > img:nth-of-type(3){
 }
 section:nth-of-type(3){
   display: block;
+  width: 960px;
+  height: 400px;
+  margin: auto;
   text-align: center;
-  width: 100%;
 }
 section:nth-of-type(3) > img{
 float: left;
